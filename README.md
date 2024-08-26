@@ -2,13 +2,6 @@
   <a href="https://github.com/SHREK-TM/Shrek-Tools">
     <img src="https://www.svgrepo.com/show/443377/brand-roblox.svg" alt="Logo" width="200" height="200">
   </a>
-  
-  <p align="center">
-  <img alt="Downloads" src="https://img.shields.io/github/downloads/R-TEAMDEV/RCHEAT-INJECTOR/total">
-  <img alt="Forks" src="https://img.shields.io/github/forks/R-TEAMDEV/RCHEAT-INJECTOR?style=social">
-  <img alt="Stargazers" src="https://img.shields.io/github/stars/R-TEAMDEV/RCHEAT-INJECTOR?style=social">
-  <img alt="License" src="https://img.shields.io/github/license/R-TEAMDEV/RCHEAT-INJECTOR">
-</p>
 
 <p align="center">
 <img src="https://cdn.discordapp.com/attachments/1277745528779702376/1277762972474802256/RCHEATSHOW.jpg?ex=66ce5900&is=66cd0780&hm=c8a760b4f1566bad8c64b8bed413f36248aa79535377d3a384bda4e7d6752efb&">
