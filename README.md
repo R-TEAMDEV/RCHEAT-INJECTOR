@@ -10,6 +10,10 @@
   <img alt="License" src="https://img.shields.io/github/license/R-TEAMDEV/RCHEAT-INJECTOR">
 </p>
 
+<p align="center">
+<img src="https://cdn.discordapp.com/attachments/1277745528779702376/1277762972474802256/RCHEATSHOW.jpg?ex=66ce5900&is=66cd0780&hm=c8a760b4f1566bad8c64b8bed413f36248aa79535377d3a384bda4e7d6752efb&">
+</p>
+
 # SETUP 🛠️
 1 - Disable Windows Defender or any other anti-virus
 
